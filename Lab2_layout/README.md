@@ -213,4 +213,4 @@
 </shape>
 ```
 ### 实验结果
-![add image]()
+![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/Lab2_layout/screenshots/1.png)
