@@ -212,5 +212,5 @@
         android:color="#FFFFFF" />
 </shape>
 ```
-###实验结果
-![img1](D:\AntroidStudio\screenshots\lab1/1.png)
+### 实验结果
+![add image]()
