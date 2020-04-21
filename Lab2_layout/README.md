@@ -213,7 +213,7 @@
 </shape>
 ```
 ### 实验结果
-![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/Lab2_layout/screenshots/1.png)
+![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab2/1.png)
 ## 约束布局
 ### 主要代码
 ```
@@ -313,7 +313,7 @@
 ### 代码详解
 利用layout_constraintBottom_toBottomOf，layout_constraintEnd_toEndOf等约束位置的属性，将每个组件的位置固定，并用margin和padding准确定位组件的位置。
 ### 实验结果
-![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/Lab2_layout/screenshots/3.png)
+![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab1/2.png)
 ## 表格布局
 ### 主要代码
 ```
@@ -416,4 +416,4 @@
 ### 代码详解
 利用多个tablerow列出总体布局，在每个tablerow中嵌套两个textview实现主要框架，此题要点是利用stretchColumns属性，实现第一列的拉伸。
 ### 实验结果
-![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/Lab2_layout/screenshots/2.png)
+![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab2/2.png)
