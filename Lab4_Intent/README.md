@@ -77,9 +77,9 @@ AndroidManifest.xml文件中增加intent过滤器
     <uses-permission android:name="android.permission.INTERNET"/>
 ```
 ## 实验结果
-IntentMain界面
+### IntentMain界面
 ![pic1](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab4/1.png)
-Intent响应
+### Intent响应
 ![pic 2](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab4/2.png)
-使用MyBrowser访问网页
+### 使用MyBrowser访问网页
 ![pic 3](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab4/3.png)
