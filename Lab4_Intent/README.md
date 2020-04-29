@@ -31,13 +31,12 @@
 
 为按钮绑定单击事件，使用ACTION_VIEW找到相应的activity，以获取对应的应用
 ```
-  btn.setOnClickListener(new View.OnClickListener() {
+btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String url = edt.getText().toString();
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url));
+                intent.setData(Uri.parse(edt.getText().toString()));
                 startActivity(intent);
             }
         });
