@@ -313,7 +313,7 @@
 ### 代码详解
 利用layout_constraintBottom_toBottomOf，layout_constraintEnd_toEndOf等约束位置的属性，将每个组件的位置固定，并用margin和padding准确定位组件的位置。
 ### 实验结果
-![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab1/2.png)
+![add image](https://github.com/Xxy-fjnu/Android_lab/blob/master/screenshots/lab2/3.png)
 ## 表格布局
 ### 主要代码
 ```
